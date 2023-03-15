@@ -14,7 +14,7 @@
 theme: jekyll-agency
 
 url    : "https://andeanbouquet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "https://andeanbouquet.github.io" # the subpath of your site, e.g. /blog
+# baseurl: "https://andeanbouquet.github.io" # the subpath of your site, e.g. /blog
 
 title      : Andean Bouquet
 email      : hebert.varela@andeanbouquet.com  #this is also the email contact forms will go to
