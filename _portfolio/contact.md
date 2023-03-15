@@ -1,0 +1,59 @@
+---
+title: Contact
+subtitle: Our goals are to always have happy customers, feel free to reach out to us!
+image: "../assets/img/portfolio/contact.jpg"
+alt: Keep Exploring
+
+
+caption: 
+  title: Contact
+  subtitle: Our goals are to always have happy customers, feel free to reach out to us!
+  thumbnail: "../assets/img/portfolio/contact.jpg"
+  weight: 1
+---
+
+<img style="float: left;" src="../assets/img/team/hebert.jpg" style="float:left;width:200px;height:200px;margin-right:20px;">
+
+**General Manager**  <br>
+Hebert Varela 
+
+<i class="fa fa-envelope" aria-hidden="true"></i> hebert.varela@andeanbouquet.com <br>
+<i class="fas fa-mobile"></i> +57 312 2586999 <br>
+<i class="fas fa-phone"></i> +57 4 5420906 <br>
+<i class="fab fa-skype"></i> hebertvarela@hotmail.com <br>
+
+<br>
+
+<img style="float: left;" src="../assets/img/team/maria.jpg" style="float:left;width:200px;height:200px;margin-right:20px;">
+
+**Administraro**  <br>
+Maria Clara Álvarez
+
+<i class="fa fa-envelope" aria-hidden="true"></i> malvarez@andeanbouquet.com <br>
+<i class="fas fa-mobile"></i>  +57 312 2574648 <br>
+<i class="fas fa-phone"></i> +57 4 5420906 <br>
+<i class="fab fa-skype"></i>  mariaclaraalvarez@hotmail.com <br>
+
+<br>
+
+<img style="float: left;" src="../assets/img/team/cristina.jpg" style="float:left;width:200px;height:200px;margin-right:20px;">
+
+**General Manager**  <br>
+Cristina López 
+
+<i class="fa fa-envelope" aria-hidden="true"></i> clopez@andeanbouquet.com <br>
+<i class="fas fa-mobile"></i> +57 311 6106353 <br>
+<i class="fas fa-phone"></i> +57 4 5420906 <br>
+<i class="fab fa-skype"></i> andeanbouquet@hotmail.com <br>
+
+<br>
+
+<img style="float: left;" src="../assets/img/team/yulieth.jpg" style="float:left;width:200px;height:200px;margin-right:20px;">
+
+**Quality Control**  <br>
+Yulieth Ocampo 
+
+<i class="fa fa-envelope" aria-hidden="true"></i> eocampo@andeanbouquet.com
+
+<br>
+<br>
