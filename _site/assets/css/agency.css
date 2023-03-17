@@ -517,6 +517,10 @@ header.masthead .intro-text .intro-heading {
     padding: 0 100px 20px 20px;
   }
 }
+section#about {
+  background-color: #f8f9fa;
+}
+
 .team-member {
   margin-bottom: 50px;
   text-align: center;
@@ -540,6 +544,7 @@ section#contact {
   background-image: url("../img/contact.jpg");
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
 }
 section#contact .section-heading {
   color: #fff;

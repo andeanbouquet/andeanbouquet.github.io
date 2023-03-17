@@ -19,11 +19,11 @@ url    : "https://andeanbouquet.github.io" # the base hostname & protocol for yo
 
 title      : Andean Bouquet
 email      : hebert.varela@andeanbouquet.com  #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
-# logo       : "./assets/img/logo.jpg"
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+description: "Andean Bouquet's webpage"
+author     : Lucas Varela
+logo       : 
+  path: "./assets/img/logo.png"
+  height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 

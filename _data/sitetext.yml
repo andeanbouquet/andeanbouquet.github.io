@@ -13,105 +13,91 @@ en: &DEFAULT_EN
   header:
     title: Andean Bouquet
     text: Delivering hapiness!
-    button: null
-    buttonlink: "#services"
-
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Catalogue"
+    text: "Discover our wonderful flowers"
     section: portfolio
     closebutton: "Close"
 
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Andean Bouquet is born"
-        year: "2001"
-        desc: "We begin sharing our love for flowers"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Across the ocean"
-        year: "March 2011"
-        desc: "We being our journey overseas, but it dosn't stop there!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "A long way from home"
-        year: "2019"
-        desc: "We earn the trust of clients all the way to Asia"
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+  services:
+    title: "Services"
+    text: " "
+    section: services
+    list:
+      - title: "[New Costumers](/new_costumers)"
+        desc: "How to become a new costumer!"
+        icon: fa fa-user
+        link: "new_costumers"
+      - title: "[Product Care](/product_care)"
+        desc: "The best tips to care after your flowers."
+        icon: fa fa-solid fa-hand-holding-heart
+        link: "product_care"
+      - title: "[Policies](/policies)"
+        desc: "We always work on improving our product's quality, therefore, your feedback is very important for us."
+        icon: fa fa-regular fa-handshake
+        link: "policies"
+
+  # timeline:
+  #   title: "Timeline"
+  #   text: "Our journey"
+  #   section: timeline
+  #   # left is the default
+  #   #start_align: "left"
+  #   events:
+  #     - title: "Andean Bouquet is born"
+  #       year: "2001"
+  #       desc: "We begin sharing our love for flowers"
+  #       image: assets/img/timeline/1.jpg
+  #       alt:
+  #     - title: "Across the ocean"
+  #       year: "March 2011"
+  #       desc: "We being our journey overseas, but it dosn't stop there!"
+  #       image: assets/img/timeline/2.jpg
+  #       alt:
+  #     - title: "A long way from home"
+  #       year: "2019"
+  #       desc: "We earn the trust of clients all the way to Asia"
+  #       image: assets/img/timeline/3.jpg
+  #       alt: image alt text
+  #       # you can enforce the alignment
+  #       align: right
+  #   end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "Quick About Us"
-    text: "Us in a few words"
-    body: "<p style='text-align: justify;'> 
-       
-    We grow and export high quality cut hydrangeas. From our farms in Colombia to you, Andean Bouquet’s team provides wholesale florists worldwide with fresh cut hydrangeas packed with care and expertise to ensure that you receive the flowers in perfect condition. This is why, our clients in the USA and Canada, our main markets, the UK, Europe, UAE and other countries in the Far East trust us.
-    <br>
-    <br>
-    Hydrangeas are our specialty but we also grow and export Bird-of-Paradise, Star-of-Bethlehem and Aster in bulk.
-    <br>
-    <br>
-    As flower producers, we share the same concern amongst consumers about the environmental impact of floricultural production. Therefore, we are permanently aware of classification systems for pesticides, selection and safe application of pesticides, and environmental pollution.
-    <br>
-    <br>
-    We want our clients and the final consumer of our fresh cut flowers to know that we care about our environment.
-    
-     </p>"
- 
-    button: "a"
-    buttonlink: "#services"
     section: about
+    title: "About Us"
+    text: "Delivering hapiness!"
+    body: "<p style='text-align: justify;'> 
+      We grow and export high quality cut hydrangeas. From our farms in Colombia to you, Andean Bouquet's team provides wholesale florists worldwide with fresh cut hydrangeas packed with care and expertise to ensure that you receive the flowers in perfect condition. This is why, our clients in the USA and Canada, our main markets, the UK, Europe, UAE and other countries in the Far East trust us.
+      <br>
+      <br>
+      Hydrangeas are our specialty but we also grow and export Bird-of-Paradise, Star-of-Bethlehem and Aster in bulk.
+      <br>
+      <br>
+      As flower producers, we share the same concern amongst consumers about the environmental impact of floricultural production. Therefore, we are permanently aware of classification systems for pesticides, selection and safe application of pesticides, and environmental pollution.
+      <br>
+      <br>
+      We want our clients and the final consumer of our fresh cut flowers to know that we care about our environment.
+      <br>
+    </p>
+    [Know more about us, our history and values here](/more_about_us)"
 
-  # clients:
+
+  # clients: 
   #   section: clients
-  #   max-height: 100px
+  #   max-height: 500px
+  #   text: Hi
   #   horizontal-scrolling: "" #"yes/no"
   #   list:
-  #     - title: "envato"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/envato.jpg
-  #     - title: "designmodo"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/designmodo.jpg
-  #     - title: "themeforest"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/themeforest.jpg
-  #     - title: "Creative Market"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/creative-market.jpg
+  #     - title: 
+  #       url: 
+  #       logo: assets/img/timeline/1.jpg
 
   team:
     title: "Meet the team"
     text: "Our goal is to always have happy customers, feel free to reach out to us!"
-    subtext: 
+    subtext: ""
     section: team
     people:
       - name: "Hebert Varela"
@@ -120,19 +106,42 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/hebert-varela-01297a11
             icon: fab fa-linkedin-in
+          - url: mailto:hebertvarela@andeanbouquet.com
+            icon: fa fa-envelope
+          - url: tel:+573122586999
+            icon: fas fa-mobile
+          - url: tel:+576045420906
+            icon: fas fa-phone
+          - url: skype:hebertvarela@hotmail.com?call
+            icon: fab fa-skype
       - name: "Maria Clara Álvarez"
         role: "Administrator"
+        social:
+          - url: mailto:malvarez@andeanbouquet.com
+            icon: fa fa-envelope
+          - url: tel:+573122574648
+            icon: fas fa-mobile
+          - url: tel:+576045420906
+            icon: fas fa-phone
+          - url: skype:mariaclaraalvarez@hotmail.com?call
+            icon: fab fa-skype
         image: assets/img/team/maria.jpg
       - name: "Cristina López"
         role: "Logistics"
+        social:
+          - url: mailto:clopez@andeanbouquet.com
+            icon: fa fa-envelope
+          - url: tel:+573116106353
+            icon: fas fa-mobile
+          - url: tel:+576045420906
+            icon: fas fa-phone
+          - url: skype:andeanbouquet@hotmail.com?call
+            icon: fab fa-skype
         image: assets/img/team/cristina.jpg
-      - name: "Yulieth Ocampo"
-        role: "Quality Control"
-        image: assets/img/team/yulieth.jpg
-
+  
   contact:
     title: "Contact Us"
-    # text: "Lorem ipsum or call 123456789"
+    text: <span style="color:white"> Use this form or contact anyone of our team directly. </span>
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -146,12 +155,18 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
+    copyright: "Andean Bouquet S.A. <br> Retiro, Antioquia, Colombia 🇨🇴"
     legal: "Privacy Policy"
     social:
+      - url: mailto:hebertvarela@andeanbouquet.com
+        icon: fa fa-envelope
+      - url: tel:+573122586999
+        icon: fas fa-phone
       - url: https://www.linkedin.com/hebert-varela-01297a11
         icon: "fab fa-linkedin-in"
       - url: https://www.instagram.com/ecofreshblooms
         icon: "fab fa-instagram"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -186,7 +201,7 @@ es: &DEFAULT_ES
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portafolio"
+    title: "Catalogo"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portafolio
     closebutton: "Cerrar Proyecto"
