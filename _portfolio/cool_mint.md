@@ -11,11 +11,15 @@ caption:
 ---
 
 
-![sizes](/assets/img/catalogue/sizes.png)
+
+
+
+| Grade | Head Size | Length | Stems/QB |
+|-------|-----------|--------|----------|
+| Extra |  18-20 cm | 60 cm  |    32    |
 
 
 <!-- 
-
 | Grade | Head Size | Length | Stems/QB |
 |-------|-----------|--------|----------|
 | Extra |  18-20 cm | 60 cm  |    32    |
@@ -27,4 +31,8 @@ caption:
 
 | Grade | Head Size | Length | Stems/QB |
 |---|---|---|---|
-| Mini | 10-13 cm | 60 cm | 72 | -->
+| Mini | 10-13 cm | 60 cm | 72 |
+
+| Grade | Head Size | Length | Stems/QB |
+|-------|-----------|--------|----------|
+| Extra |  18-20 cm | 60 cm  |    32    | -->

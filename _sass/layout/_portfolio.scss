@@ -101,6 +101,14 @@
     button {
       cursor: pointer;
     }
+    table {
+      width: 80%;
+      margin: 10%;
+    }
+    th, td {
+      border: 1px solid;
+      text-align: center;
+    }
   }
   .close-modal {
     position: absolute;

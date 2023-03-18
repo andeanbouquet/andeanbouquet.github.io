@@ -7,12 +7,12 @@
 # How to use:
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
-# English (default)
+# English (default) #A10B9C
 # -----------------
 en: &DEFAULT_EN
   header:
     title: Andean Bouquet
-    text: Delivering hapiness!
+    text: Delivering happiness!
 
   portfolio:
     title: "Catalogue"
