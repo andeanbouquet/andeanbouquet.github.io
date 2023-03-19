@@ -1,13 +1,13 @@
 ---
 title: Mini Mojito
 subtitle: Available in grade mini.
-image: "../assets/img/catalogue/caption/mini_mojito.png"
+image: "../assets/img/catalogue/hydrangea/mini_mojito/1.jpg"
 alt: Keep Exploring
 
 caption: 
   title: Mini Mojito
   subtitle: "Grade: Mini"
-  thumbnail: "../assets/img/catalogue/caption/mini_mojito.png"
+  thumbnail: "../assets/img/catalogue/hydrangea/mini_mojito/1.jpg"
 ---
 
 

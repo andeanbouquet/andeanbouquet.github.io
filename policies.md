@@ -11,6 +11,8 @@ background: grey
 
 We always work on improving our product's quality, therefore, your feedback is very important for us.
 
+![An image](./assets/img/subpages/policies.jpg){:height="100%" width="100%"}
+
 ####  Flower quality problems:
 
 In case of any quality problem related to our flowers, please send your report down all the logistics chain (agency, broker, truck company) and to us to our e-mails:

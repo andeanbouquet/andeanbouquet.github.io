@@ -1,13 +1,13 @@
 ---
 title: Lavanda
 subtitle: Available in grade extra.
-image: "../assets/img/catalogue/caption/lavanda.png"
+image: "../assets/img/catalogue/hydrangea/lavanda/1.jpg"
 alt: Keep Exploring
 
 caption: 
   title: Lavanda
   subtitle: "Grade: Extra"
-  thumbnail: "../assets/img/catalogue/caption/lavanda.png"
+  thumbnail: "../assets/img/catalogue/hydrangea/lavanda/1.jpg"
 ---
 
 

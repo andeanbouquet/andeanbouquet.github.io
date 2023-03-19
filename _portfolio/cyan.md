@@ -1,13 +1,13 @@
 ---
 title: Cyan
 subtitle: Available in grade extra.
-image: "../assets/img/catalogue/caption/cyan.png"
+image: "../assets/img/catalogue/hydrangea/cyan/1.png"
 alt: Keep Exploring
 
 caption: 
   title: Cyan
   subtitle: "Grade: Extra"
-  thumbnail: "../assets/img/catalogue/caption/cyan.png"
+  thumbnail: "../assets/img/catalogue/hydrangea/cyan/1.png"
 ---
 
 

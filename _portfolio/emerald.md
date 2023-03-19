@@ -1,13 +1,13 @@
 ---
 title: Emerald
 subtitle: Available in grade extra.
-image: "../assets/img/catalogue/caption/emerald.png"
+image: "../assets/img/catalogue/hydrangea/emerald/1.jpg"
 alt: Keep Exploring
 
 caption: 
   title: Emerald
   subtitle: "Grade: Extra"
-  thumbnail: "../assets/img/catalogue/caption/emerald.png"
+  thumbnail: "../assets/img/catalogue/hydrangea/emerald/1.jpg"
 ---
 
 

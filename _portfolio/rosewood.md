@@ -1,13 +1,13 @@
 ---
 title: Rosewood
 subtitle: Available in grade extra.
-image: "../assets/img/catalogue/caption/rosewood.png"
+image: "../assets/img/catalogue/hydrangea/rosewood/1.png"
 alt: Keep Exploring
 
 caption: 
   title: Rosewood
   subtitle: "Grade: Extra"
-  thumbnail: "../assets/img/catalogue/caption/rosewood.png"
+  thumbnail: "../assets/img/catalogue/hydrangea/rosewood/1.png"
 ---
 
 

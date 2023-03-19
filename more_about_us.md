@@ -10,6 +10,7 @@ background: grey
 
 ####  Andean Bouquet’s history
 
+![An image](./assets/img/subpages/maria.jpg){:height="100%" width="100%"}
 
 Andean Bouquet’s history Andean Bouquet was founded in 2001 by Hebert Varela, owner and manager, and a group of interdisciplinary professionals specialized in production, logistics, marketing and administration, gathering almost 14 years experience in the cut flower industry. Today, Andean Bouquet has become a well established and solid company focused mostly on growing and exporting cut hydrangeas.
 
@@ -20,11 +21,14 @@ At Andean Bouquet, we have been working to build long lasting and strong commerc
 
 ####  Mission
 
-Our goals are to always have happy customers with our beautiful, fresh and consistent high-quality cut flowers delivered on time to our customers by our team and to always maintain the well-being of our staff and surroundings by being socially and environmentally
+Our goals are to always have happy customers with our beautiful, fresh and consistent high-quality cut flowers delivered on time to our customers by our team and to always maintain the well-being of our staff and surroundings by being socially and environmentally conscious.
+
+![An image](./assets/img/subpages/hebert.jpg){:height="100%" width="100%"}
 
 ####  Vision
 
 We want to continue being a fair, responsible and reliable company for our customers and for all the members of our team. We want to continue consolidating our commercial relationships by keeping the highest quality standards to which our customers are used to and by offering them innovative products to fulfill their needs. We want to grow as a company by reaching new markets and learning from them in order to make our productive processes comply with different market standards throughout the world.
+
 
 #### Core values
 

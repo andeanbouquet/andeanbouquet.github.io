@@ -1,13 +1,13 @@
 ---
 title: Light Blue
 subtitle: Available in grade extra and premium.
-image: "../assets/img/catalogue/caption/light_blue.png"
+image: "../assets/img/catalogue/hydrangea/light_blue/1.jpg"
 alt: Keep Exploring
 
 caption: 
   title: Light Blue
   subtitle: "Grade: Extra & Premium"
-  thumbnail: "../assets/img/catalogue/caption/light_blue.png"
+  thumbnail: "../assets/img/catalogue/hydrangea/light_blue/1.jpg"
 ---
 
 

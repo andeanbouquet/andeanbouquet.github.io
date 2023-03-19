@@ -1,13 +1,13 @@
 ---
 title: Lime Green
 subtitle: Available in grade extra.
-image: "../assets/img/catalogue/caption/lime_green.png"
+image: "../assets/img/catalogue/hydrangea/lime_green/1.jpg"
 alt: Keep Exploring
 
 caption: 
   title: Lime Green
   subtitle: "Grade: Extra"
-  thumbnail: "../assets/img/catalogue/caption/lime_green.png"
+  thumbnail: "../assets/img/catalogue/hydrangea/lime_green/1.jpg"
 ---
 
 

@@ -10,6 +10,8 @@ background: grey
 
 The best tips to care after your flowers.
 
+![An image](./assets/img/subpages/product_care.jpg){:height="100%" width="100%"}
+
 ####  Cut Hydrangea Care
 1. Take off plastic sleeve.
 2. Cut stems at a 45 degree angle under water in a bucket.

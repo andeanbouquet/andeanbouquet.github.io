@@ -1,13 +1,13 @@
 ---
 title: Cool Mint
 subtitle: Available in grade extra.
-image: "../assets/img/catalogue/caption/cool_mint.png"
+image: "../assets/img/catalogue/hydrangea/cool_mint/1.png"
 alt: Keep Exploring
 
 caption: 
   title: Cool Mint
   subtitle: "Grade: Extra"
-  thumbnail: "../assets/img/catalogue/caption/cool_mint.png"
+  thumbnail: "../assets/img/catalogue/hydrangea/cool_mint/1.png"
 ---
 
 

@@ -1,13 +1,13 @@
 ---
 title: Aqua
 subtitle: Available in grade extra.
-image: "../assets/img/catalogue/caption/aqua.png"
+image: "../assets/img/catalogue/hydrangea/aqua/1.jpg"
 alt: Keep Exploring
 
 caption: 
   title: Aqua
   subtitle: "Grade: Extra"
-  thumbnail: "../assets/img/catalogue/caption/aqua.png"
+  thumbnail: "../assets/img/catalogue/hydrangea/aqua/1.jpg"
 ---
 
 | Grade | Head Size | Length | Stems/QB |

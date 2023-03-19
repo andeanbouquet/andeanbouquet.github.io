@@ -1,13 +1,13 @@
 ---
 title: White
 subtitle: Available in grade extra and premium.
-image: "../assets/img/catalogue/caption/white.png"
+image: "../assets/img/catalogue/hydrangea/white/1.jpg"
 alt: Keep Exploring
 
 caption: 
   title: White
   subtitle: "Grade: Extra & Premium"
-  thumbnail: "../assets/img/catalogue/caption/white.png"
+  thumbnail: "../assets/img/catalogue/hydrangea/white/1.jpg"
 ---
 
 

@@ -1,13 +1,13 @@
 ---
 title: Fresh Green
 subtitle: Available in grade extra.
-image: "../assets/img/catalogue/caption/fresh_green.png"
+image: "../assets/img/catalogue/hydrangea/fresh_green/1.jpg"
 alt: Keep Exploring
 
 caption: 
   title: Fresh Green
   subtitle: "Grade: Extra"
-  thumbnail: "../assets/img/catalogue/caption/fresh_green.png"
+  thumbnail: "../assets/img/catalogue/hydrangea/fresh_green/1.jpg"
 ---
 
 
