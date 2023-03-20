@@ -11,11 +11,17 @@ caption:
 
 carousels:
   - images: 
+  - images: 
+  - images:
+  - images:  
+  - images: 
+  - images: 
+  - images: 
     - image: /assets/img/catalogue/hydrangea/fresh_green/1.jpg
     - image: /assets/img/catalogue/hydrangea/fresh_green/2.jpg
 ---
 
-{% include carousel.html height="80" unit="%" duration="120" number="1" %}
+{% include carousel.html height="80" unit="%" duration="99" number="7" %}
 
 | Grade | Head Size | Length | Stems/QB |
 |-------|-----------|--------|----------|

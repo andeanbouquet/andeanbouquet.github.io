@@ -10,13 +10,29 @@ caption:
   thumbnail: "../assets/img/catalogue/hydrangea/white/1.jpg"
 
 carousels:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
   - images: 
     - image: /assets/img/catalogue/hydrangea/white/1.jpg
     - image: /assets/img/catalogue/hydrangea/white/2.jpg
     - image: /assets/img/catalogue/hydrangea/white/extra.jpg
 ---
 
-{% include carousel.html height="80" unit="%" duration="120" number="1" %}
+{% include carousel.html height="80" unit="%" duration="99" number="17" %}
 
 | Grade | Head Size | Length | Stems/QB |
 |-------|-----------|--------|----------|

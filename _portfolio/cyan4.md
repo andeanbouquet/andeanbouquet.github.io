@@ -12,10 +12,13 @@ caption:
 
 carousels:
   - images: 
+  - images: 
+  - images:
+  - images:  
     - image: /assets/img/catalogue/hydrangea/cyan/1.png
 ---
 
-{% include carousel.html height="80" unit="%" duration="120" number="1" %}
+{% include carousel.html height="80" unit="%" duration="99" number="4" %}
 
 | Grade | Head Size | Length | Stems/QB |
 |-------|-----------|--------|----------|

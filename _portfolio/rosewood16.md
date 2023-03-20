@@ -10,11 +10,26 @@ caption:
   thumbnail: "../assets/img/catalogue/hydrangea/rosewood/1.png"
 
 carousels:
-  - images: 
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
+  - images:
     - image: /assets/img/catalogue/hydrangea/rosewood/1.png
 ---
 
-{% include carousel.html height="80" unit="%" duration="120" number="1" %}
+{% include carousel.html height="80" unit="%" duration="99" number="16" %}
 
 | Grade | Head Size | Length | Stems/QB |
 |-------|-----------|--------|----------|

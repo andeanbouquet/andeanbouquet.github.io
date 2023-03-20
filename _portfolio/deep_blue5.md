@@ -11,12 +11,16 @@ caption:
 
 carousels:
   - images: 
+  - images: 
+  - images:
+  - images:  
+  - images: 
     - image: /assets/img/catalogue/hydrangea/deep_blue/1.jpg
     - image: /assets/img/catalogue/hydrangea/deep_blue/2.jpg
     - image: /assets/img/catalogue/hydrangea/deep_blue/3.jpg
 ---
 
-{% include carousel.html height="80" unit="%" duration="120" number="1" %}
+{% include carousel.html height="80" unit="%" duration="99" number="5" %}
 
 | Grade | Head Size | Length | Stems/QB |
 |-------|-----------|--------|----------|

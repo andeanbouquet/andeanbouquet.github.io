@@ -16,7 +16,7 @@ carousels:
     - image: /assets/img/catalogue/hydrangea/aqua/3.jpg
 ---
 
-{% include carousel.html height="80" unit="%" duration="120" number="1" %}
+{% include carousel.html height="80" unit="%" duration="99" number="1" %}
 
 | Grade | Head Size | Length | Stems/QB |
 |-------|-----------|--------|----------|

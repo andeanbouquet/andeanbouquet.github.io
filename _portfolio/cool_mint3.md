@@ -11,10 +11,12 @@ caption:
 
 carousels:
   - images: 
+  - images:
+  - images:  
     - image: /assets/img/catalogue/hydrangea/cool_mint/1.png
 ---
 
-{% include carousel.html height="80" unit="%" duration="120" number="1" %}
+{% include carousel.html height="80" unit="%" duration="99" number="3" %}
 
 | Grade | Head Size | Length | Stems/QB |
 |-------|-----------|--------|----------|
