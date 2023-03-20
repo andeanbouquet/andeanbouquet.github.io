@@ -27,8 +27,8 @@ carousels:
     - image: /assets/img/catalogue/hydrangea/mini_mojito/2.jpg
 ---
 
-{% include carousel.html height="80" unit="%" duration="99" number="13" %}
+{% include carousel.html height="100" unit="%" duration="99" number="13" %}
 
-| Grade | Head Size | Length | Stems per QB |
+| Grade | Head Size | Length | Stems/QB |
 |-------|-----------|--------|----------|
 | Mini  | 10-13 cm  | 60 cm  |    72    | 

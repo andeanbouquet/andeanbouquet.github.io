@@ -23,8 +23,8 @@ carousels:
     - image: /assets/img/catalogue/hydrangea/green_diamond/3.jpg
 ---
 
-{% include carousel.html height="80" unit="%" duration="99" number="8" %}
+{% include carousel.html height="100" unit="%" duration="99" number="8" %}
 
-| Grade | Head Size | Length | Stems per QB |
+| Grade | Head Size | Length | Stems/QB |
 |-------|-----------|--------|----------|
 | Extra |  18-20 cm | 60 cm  |    32    |

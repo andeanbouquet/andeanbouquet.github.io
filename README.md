@@ -10,7 +10,7 @@ carousels:
     - image: "here goes image path 1"
     - image: "here goes image path 2"
 
-include carousel.html height="80" unit="%" duration="200" number="10"
+include carousel.html height="100" unit="%" duration="200" number="10"
 ---------------------
 
 
