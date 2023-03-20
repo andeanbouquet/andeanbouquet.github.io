@@ -69,7 +69,8 @@ en: &DEFAULT_EN
     section: about
     title: "About Us"
     text: "Delivering hapiness!"
-    body: "<p style='text-align: justify;'> 
+    body: "
+    <p style='text-align: justify;'> 
       We export high quality cut hydrangeas, from our farms in Colombia to you. Andean Bouquet's team provides wholesale florists worldwide with fresh cut hydrangeas, packed with care and expertise to ensure that you receive the flowers in perfect condition. This is why, our clients in the USA and Canada, our main markets, Europe, UAE and other countries in the Far East trust us.
       <br>
       <br>

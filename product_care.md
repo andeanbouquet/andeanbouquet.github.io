@@ -23,9 +23,14 @@ The best tips to care after your flowers.
 8. If any flower wilts, completely submerge the flower head in water and place it in the vase again. It will revive!
 9. Keep flowers out of direct sunlight and away from heat and drafts.
 
+
+![An image](./assets/img/subpages/product_care_2.jpg){:height="100%" width="100%"}
+
 #### Antique Hydrangeas
 
 The Antique Hydrangeas endure a long time in the crop. These flowers are exposed to different weather conditions and aging of the flower for a longer time than other hydrangeas, this is why they may show pink spots, different range of colors such as light green, dark green, and, sometimes, brown spots. Please do not mind these variations, they are part of the antique aging process of the flowers, and this is what makes them so unique and special.
+
+
 
 #### Bird-of-Paradise
 Bird-of-Paradise is a special kind of flower, it has up to 3 consecutive blooms. When the first bloom has worn out, do not be afraid to tear it off; behind comes the other! It is a magical flower which will make your arrangements last longer than most other flowers.
