@@ -4,15 +4,18 @@ subtitle: Available in grade extra.
 image: "../assets/img/catalogue/hydrangea/cyan/1.png"
 alt: Keep Exploring
 
+
 caption: 
   title: Cyan
   subtitle: "Grade: Extra"
   thumbnail: "../assets/img/catalogue/hydrangea/cyan/1.png"
+
+carousels:
+  - images: 
+    - image: /assets/img/catalogue/hydrangea/cyan/1.png
 ---
 
-
-
-
+{% include carousel.html height="80" unit="%" duration="120" number="1" %}
 
 | Grade | Head Size | Length | Stems/QB |
 |-------|-----------|--------|----------|

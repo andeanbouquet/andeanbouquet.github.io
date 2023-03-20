@@ -8,12 +8,15 @@ caption:
   title: Blush Pink
   subtitle: "Grade: Extra"
   thumbnail: "../assets/img/catalogue/hydrangea/blush_pink/1.jpg"
+
+carousels:
+  - images: 
+    - image: /assets/img/catalogue/hydrangea/blush_pink/1.jpg
+    - image: /assets/img/catalogue/hydrangea/blush_pink/2.jpg
+    - image: /assets/img/catalogue/hydrangea/blush_pink/3.jpg
 ---
 
-
-
-
-
+{% include carousel.html height="80" unit="%" duration="120" number="1" %}
 
 | Grade | Head Size | Length | Stems/QB |
 |-------|-----------|--------|----------|

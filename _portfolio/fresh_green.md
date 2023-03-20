@@ -8,11 +8,14 @@ caption:
   title: Fresh Green
   subtitle: "Grade: Extra"
   thumbnail: "../assets/img/catalogue/hydrangea/fresh_green/1.jpg"
+
+carousels:
+  - images: 
+    - image: /assets/img/catalogue/hydrangea/fresh_green/1.jpg
+    - image: /assets/img/catalogue/hydrangea/fresh_green/2.jpg
 ---
 
-
-
-
+{% include carousel.html height="80" unit="%" duration="120" number="1" %}
 
 | Grade | Head Size | Length | Stems/QB |
 |-------|-----------|--------|----------|

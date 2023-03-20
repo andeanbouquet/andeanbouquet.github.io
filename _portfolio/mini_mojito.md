@@ -8,12 +8,15 @@ caption:
   title: Mini Mojito
   subtitle: "Grade: Mini"
   thumbnail: "../assets/img/catalogue/hydrangea/mini_mojito/1.jpg"
+
+carousels:
+  - images: 
+    - image: /assets/img/catalogue/hydrangea/mini_mojito/1.jpg
+    - image: /assets/img/catalogue/hydrangea/mini_mojito/2.jpg
 ---
 
-
-
-
+{% include carousel.html height="80" unit="%" duration="120" number="1" %}
 
 | Grade | Head Size | Length | Stems/QB |
 |-------|-----------|--------|----------|
-| Extra |  18-20 cm | 60 cm  |    32    |
+| Mini  | 10-13 cm  | 60 cm  |    72    | 
