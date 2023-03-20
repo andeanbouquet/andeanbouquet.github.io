@@ -19,7 +19,7 @@ url    : "https://andeanbouquet.github.io" # the base hostname & protocol for yo
 
 title      : Andean Bouquet
 email      : hebert.varela@andeanbouquet.com  #this is also the email contact forms will go to
-description: "Andean Bouquet's webpage"
+description: "Andean Bouquet, delivering happiness!"
 author     : Lucas Varela
 logo       : 
   path: "./assets/img/logo.png"

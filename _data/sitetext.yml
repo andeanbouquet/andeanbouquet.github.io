@@ -17,6 +17,7 @@ en: &DEFAULT_EN
   portfolio:
     title: "Catalogue"
     text: "Discover our wonderful flowers"
+    download: "**[Download a PDF copy of our catalogue here](/assets/pdfs/catalogue.pdf)**"
     section: portfolio
     closebutton: "Close"
 
@@ -69,19 +70,19 @@ en: &DEFAULT_EN
     title: "About Us"
     text: "Delivering hapiness!"
     body: "<p style='text-align: justify;'> 
-      We grow and export high quality cut hydrangeas. From our farms in Colombia to you, Andean Bouquet's team provides wholesale florists worldwide with fresh cut hydrangeas packed with care and expertise to ensure that you receive the flowers in perfect condition. This is why, our clients in the USA and Canada, our main markets, the UK, Europe, UAE and other countries in the Far East trust us.
+      We export high quality cut hydrangeas, from our farms in Colombia to you. Andean Bouquet's team provides wholesale florists worldwide with fresh cut hydrangeas, packed with care and expertise to ensure that you receive the flowers in perfect condition. This is why, our clients in the USA and Canada, our main markets, Europe, UAE and other countries in the Far East trust us.
       <br>
       <br>
       Hydrangeas are our specialty but we also grow and export Bird-of-Paradise, Star-of-Bethlehem and Aster in bulk.
       <br>
       <br>
-      As flower producers, we share the same concern amongst consumers about the environmental impact of floricultural production. Therefore, we are permanently aware of classification systems for pesticides, selection and safe application of pesticides, and environmental pollution.
+      As flower producers, we share the same concern amongst consumers regarding the environmental impact of floricultural production. Therefore, we are permanently aware of classification systems for pesticides, selection and safe application of pesticides, and environmental pollution.
       <br>
       <br>
       We want our clients and the final consumer of our fresh cut flowers to know that we care about our environment.
       <br>
     </p>
-    [Know more about us, our history and values here](/more_about_us)"
+    <b>[Know more about us, our history and values here](/more_about_us) </b>"
 
 
   # clients: 
@@ -141,7 +142,7 @@ en: &DEFAULT_EN
   
   contact:
     title: "Contact Us"
-    text: <span style="color:white"> Use this form or contact anyone of our team directly. </span>
+    text: <b> <span style="color:white"> Use this form or contact anyone of our team directly. </span> </b>
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
