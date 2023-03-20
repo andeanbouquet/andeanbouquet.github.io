@@ -29,6 +29,6 @@ carousels:
 
 {% include carousel.html height="80" unit="%" duration="99" number="13" %}
 
-| Grade | Head Size | Length | Stems/QB |
+| Grade | Head Size | Length | Stems per QB |
 |-------|-----------|--------|----------|
 | Mini  | 10-13 cm  | 60 cm  |    72    | 

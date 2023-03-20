@@ -22,7 +22,7 @@ carousels:
 
 {% include carousel.html height="80" unit="%" duration="99" number="5" %}
 
-| Grade | Head Size | Length | Stems/QB |
+| Grade | Head Size | Length | Stems per QB |
 |-------|-----------|--------|----------|
 | Extra | 18-20 cm | 60 cm | 32 |
 | Premium | 21-22 cm | 60 cm | 28 |
