@@ -112,8 +112,6 @@ en: &DEFAULT_EN
             icon: fa fa-envelope
           - url: tel:+573122586999
             icon: fas fa-mobile
-          - url: tel:+576045420906
-            icon: fas fa-phone
           - url: skype:hebertvarela@hotmail.com?call
             icon: fab fa-skype
       - name: "Maria Clara Álvarez"
@@ -157,7 +155,7 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    copyright: "Andean Bouquet <br> Retiro, Antioquia, Colombia 🇨🇴"
+    copyright: "Retiro, Antioquia, Colombia 🇨🇴"
     legal: "Privacy Policy"
     social:
       - url: mailto:hebertvarela@andeanbouquet.com

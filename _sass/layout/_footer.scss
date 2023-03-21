@@ -1,15 +1,15 @@
 // Styling for the footer
 .footer {
-  padding: 25px 0;
+  padding: 10px 0;
   text-align: center;
   span.copyright {
-    font-size: 90%;
+    font-size: 100%;
     line-height: 40px;
     text-transform: none;
     @include heading-font;
   }
   ul.quicklinks {
-    font-size: 90%;
+    font-size: 100%;
     line-height: 40px;
     margin-bottom: 0;
     text-transform: none;
@@ -32,11 +32,11 @@ ul.social-buttons {
       color: white;
       border-radius: 100%;
       outline: none;
-      background-color: $gray-900;
+      background-color: $primary;
       &:active,
       &:focus,
       &:hover {
-        background-color: $primary;
+        background-color: darken($primary, 7.5%);
       }
     }
   }

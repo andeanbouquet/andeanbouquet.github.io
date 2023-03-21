@@ -607,17 +607,17 @@ section#contact :-ms-input-placeholder {
 }
 
 .footer {
-  padding: 25px 0;
+  padding: 10px 0;
   text-align: center;
 }
 .footer span.copyright {
-  font-size: 90%;
+  font-size: 100%;
   line-height: 40px;
   text-transform: none;
   font-family: "Belleza", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 .footer ul.quicklinks {
-  font-size: 90%;
+  font-size: 100%;
   line-height: 40px;
   margin-bottom: 0;
   text-transform: none;
@@ -639,10 +639,10 @@ ul.social-buttons li a {
   color: white;
   border-radius: 100%;
   outline: none;
-  background-color: #212529;
+  background-color: #ff9cff;
 }
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #ff9cff;
+  background-color: #ff76ff;
 }
 
 /*# sourceMappingURL=agency.css.map */
