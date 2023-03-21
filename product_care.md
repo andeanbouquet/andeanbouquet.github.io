@@ -26,9 +26,9 @@ The best tips to care after your flowers.
 
 ![An image](./assets/img/subpages/product_care_2.jpg){:height="100%" width="100%"}
 
-#### Antique Hydrangeas
+<!-- #### Antique Hydrangeas
 
-The Antique Hydrangeas endure a long time in the crop. These flowers are exposed to different weather conditions and aging of the flower for a longer time than other hydrangeas, this is why they may show pink spots, different range of colors such as light green, dark green, and, sometimes, brown spots. Please do not mind these variations, they are part of the antique aging process of the flowers, and this is what makes them so unique and special.
+The Antique Hydrangeas endure a long time in the crop. These flowers are exposed to different weather conditions and aging of the flower for a longer time than other hydrangeas, this is why they may show pink spots, different range of colors such as light green, dark green, and, sometimes, brown spots. Please do not mind these variations, they are part of the antique aging process of the flowers, and this is what makes them so unique and special. -->
 
 
 
@@ -36,7 +36,3 @@ The Antique Hydrangeas endure a long time in the crop. These flowers are exposed
 Bird-of-Paradise is a special kind of flower, it has up to 3 consecutive blooms. When the first bloom has worn out, do not be afraid to tear it off; behind comes the other! It is a magical flower which will make your arrangements last longer than most other flowers.
 
 Note, if the petals do not show for one or two days, try to open the natural overture on the top of the flower and slightly pull the orange petal just a little, to help it bloom.
-
-####  Ornithogalum or Star-of-Bethlehem
-
-Please note that this flower is thirsty from its travel, just hydrate it and it will begin to blossom after a few hours and over a day or two.

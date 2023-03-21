@@ -11,25 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Andean Bouquet
+    title: Andean Bouquet 
     text: Delivering happiness!
 
   portfolio:
-    title: "Catalogue"
+    title: Catalogue 
     text: "Discover our wonderful flowers"
     download: "**[Download a PDF copy of our catalogue here](/assets/pdfs/catalogue.pdf)**"
     section: portfolio
     closebutton: "Close"
 
   services:
-    title: "Services"
+    title: Services 
     text: " "
     section: services
     list:
-      - title: "[New Costumers](/new_costumers)"
+      - title: "[New Customers](/new_customers)"
         desc: "How to become a new costumer!"
         icon: fa fa-user
-        link: "new_costumers"
+        link: "new_customers"
       - title: "[Product Care](/product_care)"
         desc: "The best tips to care after your flowers."
         icon: fa fa-solid fa-hand-holding-heart
@@ -157,7 +157,7 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    copyright: "Andean Bouquet S.A. <br> Retiro, Antioquia, Colombia 🇨🇴"
+    copyright: "Andean Bouquet <br> Retiro, Antioquia, Colombia 🇨🇴"
     legal: "Privacy Policy"
     social:
       - url: mailto:hebertvarela@andeanbouquet.com
