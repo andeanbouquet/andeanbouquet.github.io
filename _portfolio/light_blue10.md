@@ -6,7 +6,26 @@ alt: Keep Exploring
 
 caption: 
   title: Light Blue
-  subtitle: "Grade: Extra & Premium"
+  subtitle: " <table>
+              <tr>
+                  <td>Grade</td>
+                  <td>Head Size</td>
+                  <td>Length</td>
+                  <td>Stems/QB</td>
+              </tr>
+              <tr>
+                  <td>Extra</td>
+                  <td>18-20 cm</td>
+                  <td>60 cm</td>
+                  <td>32</td>
+              </tr>
+              <tr>
+                  <td>Premium</td>
+                  <td>21-22 cm</td>
+                  <td>60 cm</td>
+                  <td>28</td>
+              </tr>
+            </table>"
   thumbnail: "../assets/img/catalogue/hydrangea/light_blue/1.jpg"
 
 carousels:

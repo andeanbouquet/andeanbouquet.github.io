@@ -56,6 +56,13 @@
         margin: 0;
         @include serif-font;
       }
+      table {
+        width: 100%;
+      }
+      th, td {
+        border: 1px solid;
+        text-align: center;
+      }
     }
   }
   * {

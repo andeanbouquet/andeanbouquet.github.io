@@ -6,7 +6,20 @@ alt: Keep Exploring
 
 caption: 
   title: Lime Green
-  subtitle: "Grade: Extra"
+  subtitle: "<table>
+                <tr>
+                    <td>Grade</td>
+                    <td>Head Size</td>
+                    <td>Length</td>
+                    <td>Stems/QB</td>
+                </tr>
+                <tr>
+                    <td>Extra</td>
+                    <td>18-20 cm</td>
+                    <td>60 cm</td>
+                    <td>32</td>
+                </tr>
+              </table>"
   thumbnail: "../assets/img/catalogue/hydrangea/lime_green/1.jpg"
 
 carousels:
