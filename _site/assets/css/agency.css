@@ -112,11 +112,11 @@ img::-moz-selection {
   color: #ff69ff;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
-  font-size: 90%;
-  font-weight: 400;
+  font-size: 100%;
+  font-weight: 500;
   padding: 0.75em 0;
   letter-spacing: 1px;
-  color: white;
+  color: #625b5b;
   font-family: "Belleza", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
