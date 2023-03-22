@@ -25,4 +25,6 @@ Please note:
 - All new customers must prepay the first 5 shipments. After this requirement is met and your credit application is accepted, we proceed to open a credit account that corresponds to your monthly orders.
 - All prepayments must be done one day before shipment.
 
-**Thank you for your interest in our products and welcome to Andean Bouquet's Family!**
+**Thank you for your interest in our products and welcome to Andean Bouquet's family!**
+
+<br>
