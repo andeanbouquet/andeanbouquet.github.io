@@ -14,6 +14,9 @@
     <div class="row">
       {% for project in site.portfolio %}
       <div class="col-md-4 col-sm-6 portfolio-item">
+        <div class="portfolio-caption">
+          <h4>{{  project.caption.title }}</h4>
+        </div>
         <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
@@ -23,9 +26,6 @@
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="" style="width: 100%;">
         </a>
         <div class="portfolio-caption">
-          <h4>{{  project.caption.title }}</h4>
-          <!-- Tables as subtitles -->
-          <br>
           <p class="text-muted">{{ project.caption.subtitle  }}</p>
         </div>
       </div>

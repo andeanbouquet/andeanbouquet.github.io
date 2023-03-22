@@ -108,11 +108,11 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/hebert-varela-01297a11
             icon: fab fa-linkedin-in
-          - url: mailto:hebertvarela@andeanbouquet.com
+          - url: mailto:hebert.varela@andeanbouquet.com
             icon: fa fa-envelope
           - url: tel:+573122586999
-            icon: fas fa-mobile
-          - url: skype:hebertvarela@hotmail.com?call
+            icon: fas fa-phone
+          - url: skype:hebertvarela@hotmail.com?chat
             icon: fab fa-skype
       - name: "Maria Clara Álvarez"
         role: "Administrator"
@@ -120,10 +120,8 @@ en: &DEFAULT_EN
           - url: mailto:malvarez@andeanbouquet.com
             icon: fa fa-envelope
           - url: tel:+573122574648
-            icon: fas fa-mobile
-          - url: tel:+576045420906
             icon: fas fa-phone
-          - url: skype:mariaclaraalvarez@hotmail.com?call
+          - url: skype:mariaclaraalvarez@hotmail.com?chat
             icon: fab fa-skype
         image: assets/img/team/maria.jpg
       - name: "Cristina López"
@@ -132,10 +130,8 @@ en: &DEFAULT_EN
           - url: mailto:clopez@andeanbouquet.com
             icon: fa fa-envelope
           - url: tel:+573116106353
-            icon: fas fa-mobile
-          - url: tel:+576045420906
             icon: fas fa-phone
-          - url: skype:andeanbouquet@hotmail.com?call
+          - url: skype:andeanbouquet@hotmail.com?chat
             icon: fab fa-skype
         image: assets/img/team/cristina.jpg
   
@@ -158,14 +154,12 @@ en: &DEFAULT_EN
     copyright: "Retiro, Antioquia, Colombia 🇨🇴"
     legal: "Privacy Policy"
     social:
-      - url: mailto:hebertvarela@andeanbouquet.com
+      - url: mailto:hebert.varela@andeanbouquet.com
         icon: fa fa-envelope
       - url: tel:+573122586999
         icon: fas fa-phone
       - url: https://www.linkedin.com/hebert-varela-01297a11
         icon: "fab fa-linkedin-in"
-      - url: https://www.instagram.com/ecofreshblooms
-        icon: "fab fa-instagram"
 
 en-US:
   <<: *DEFAULT_EN
