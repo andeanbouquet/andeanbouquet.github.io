@@ -13,14 +13,14 @@ The best tips to care after your flowers.
 ![An image](./assets/img/subpages/product_care.jpg){:height="100%" width="100%"}
 
 ####  Cut Hydrangea Care
-1. Take off plastic sleeve.
-2. Cut stems at a 45 degree angle under water in a bucket.
+1. Take off the plastic sleeve.
+2. Cut stems at a 45-degree angle underwater in a bucket.
 3. Leave them hydrating for 5 minutes.
 4. Place flowers in a clean vase.
-5. Mist petals with a spray with clean water every other day to avoid dehydration.
-6. Make sure the vase always has water above cut stem level.
+5. Mist petals with a spray of clean water every other day to avoid dehydration.
+6. Make sure the vase always has water above the cut stem level.
 7. Change vase water and re-cut stems every 3 days.
-8. If any flower wilts, completely submerge the flower head in water and place it in the vase again. It will revive!
+8. If any flower wilts, submerge entirely the flower head in the water and place it in the vase again. It will revive!
 9. Keep flowers out of direct sunlight and away from heat and drafts.
 
 
@@ -33,6 +33,6 @@ The Antique Hydrangeas endure a long time in the crop. These flowers are exposed
 
 
 #### Bird-of-Paradise
-Bird-of-Paradise is a special kind of flower, it has up to 3 consecutive blooms. When the first bloom has worn out, do not be afraid to tear it off; behind comes the other! It is a magical flower which will make your arrangements last longer than most other flowers.
+Bird-of-Paradise is a special kind of flower; it has up to 3 consecutive blooms. When the first bloom has worn out, do not be afraid to tear it off; behind comes the other! It is a magical flower that will make your arrangements last longer than most other flowers.
 
 Note, if the petals do not show for one or two days, try to open the natural overture on the top of the flower and slightly pull the orange petal just a little, to help it bloom.

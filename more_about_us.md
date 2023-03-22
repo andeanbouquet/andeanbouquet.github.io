@@ -30,14 +30,14 @@ Our goals are to always have happy customers with our beautiful, fresh and consi
 
 ####  Vision
 
-We want to continue being a fair, responsible and reliable company for our customers and for all the members of our team. We want to continue consolidating our commercial relationships by keeping the highest quality standards to which our customers are used to and by offering them innovative products to fulfill their needs. We want to grow as a company by reaching new markets and learning from them in order to make our productive processes comply with different market standards throughout the world.
+We want to continue being a fair, responsible and reliable company for our customers and all the members of our team. We want to continue consolidating our commercial relationships by keeping the highest quality standards to which our customers are used to and by offering them innovative products to fulfill their needs. We want to grow as a company by reaching new markets and learning from them to make our production processes comply with different market standards throughout the world.
 
 
 #### Core values
 
-- Long lasting relationships with our customers
+- Long-lasting relationships with our customers
 - Happy and dedicated staff
 - Focus on wholesalers
-- Consistency in high quality cut flowers
+- Consistency in high-quality cut flowers
 - Optimal customer service
 - Social and Enviromental responsability

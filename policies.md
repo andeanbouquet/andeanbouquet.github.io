@@ -9,19 +9,20 @@ background: grey
 </div>
 
 
-We always work on improving our product's quality, therefore, your feedback is very important for us.
+We always work on improving our product’s quality, therefore, your feedback is essential to us.
 
 ![An image](./assets/img/subpages/policies.jpg){:height="100%" width="100%"}
 
 ####  Flower quality problems
 
-In case of any quality problem related to our flowers, please send your report down all the logistics chain (agency, broker, truck company) and to us to our e-mails:
+Flower quality problems
+In case of any quality problem related to our flowers, please send your report down all the logistics chain (agency, broker, truck company) and to us via our e-mails:
 - Hebert Varela: hebert.varela@andeanbouquet.com
 - María Álvarez: malvarez@andeanbouquet.com
 
-This report **must** be sent no more than 2 days after customers receive the product and shall be accompanied by pictures of the damaged flower boxes with AWB label on them and a note with the amount of stems affected.
+This report **must** be sent no more than 2 days after customers receive the product and shall be accompanied by pictures of the damaged flower boxes with AWB label on them and a note with the number of stems affected.
 
-After all the information is sent, we will contact all related parties to determine responsabilities.
+After all the information is sent, we will contact all related parties to determine responsibilities.
 
 ####  Fumigation
 
@@ -30,7 +31,7 @@ After all the information is sent, we will contact all related parties to determ
 
 - The broker initially receives an **emergency action notification** from PPQ, which means a temporary hold of the flower until specialists make a final identification of the organism found to determine if it requires a quarantine action (destruction, fumigation or re-exportation).
 - This notification is **not** enough to take an action.
-The only authority to order an action resides with the specialists. If the broker orders a fumigation before being certain that it is mandatory, the flower could be unnecessarily fumigated.
+The only authority to order an action resides with the specialists. If the broker orders fumigation before being certain that it is mandatory, the flower could be unnecessarily fumigated.
 - You, the customer, have to ask your broker for the PPQ form which must have:
 1. Scientific name (Latin name) of the quarantine intercepted organism. This information can be obtained by the broker by calling to CBP (pest identification).
 2. A seal saying “Treated and released” with date, time, name and ID of the specialist who treated the flower.
