@@ -27,7 +27,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "[New Customers](/new_customers)"
-        desc: "How to become a new costumer!"
+        desc: "How to become a new customer!"
         icon: fa fa-user
         link: "new_customers"
       - title: "[Product Care](/product_care)"

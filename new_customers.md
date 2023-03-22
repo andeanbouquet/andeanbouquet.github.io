@@ -8,7 +8,7 @@ background: grey
 	<h2 class="section-heading text-uppercase">New customers</h2>
 </div>
 
-How to become a new costumer!
+How to become a new customer!
 
 
 ![An image](./assets/img/subpages/new_customers.jpg){:height="100%" width="100%"}
