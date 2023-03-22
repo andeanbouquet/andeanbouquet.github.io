@@ -106,7 +106,7 @@ en: &DEFAULT_EN
         role: "General Manager"
         image: assets/img/team/hebert.jpg
         social:
-          - url: https://www.linkedin.com/hebert-varela-01297a11
+          - url: https://www.linkedin.com/in/hebert-varela-01297a11/
             icon: fab fa-linkedin-in
           - url: mailto:hebert.varela@andeanbouquet.com
             icon: fa fa-envelope
@@ -166,7 +166,7 @@ en: &DEFAULT_EN
         icon: fab fa-whatsapp
       - url: tel:+573122586999
         icon: fas fa-phone
-      - url: https://www.linkedin.com/hebert-varela-01297a11
+      - url: https://www.linkedin.com/in/hebert-varela-01297a11/
         icon: "fab fa-linkedin-in"
 
 en-US:
