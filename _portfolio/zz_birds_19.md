@@ -1,6 +1,6 @@
 ---
 title: Bird-of-Paradise
-subtitle: Available in grade extra.
+subtitle: 
 image: "./assets/img/catalogue/birds_paradise/1.jpg"
 alt: Keep Exploring
 
