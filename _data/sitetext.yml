@@ -110,29 +110,35 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
           - url: mailto:hebert.varela@andeanbouquet.com
             icon: fa fa-envelope
-          - url: tel:+573122586999
-            icon: fas fa-phone
+          - url: https://wa.me/573122586999
+            icon: fab fa-whatsapp
           - url: skype:hebertvarela@hotmail.com?chat
             icon: fab fa-skype
+          - url: tel:+573122586999
+            icon: fas fa-phone
       - name: "Maria Clara Álvarez"
         role: "Administrator"
         social:
           - url: mailto:malvarez@andeanbouquet.com
             icon: fa fa-envelope
-          - url: tel:+573122574648
-            icon: fas fa-phone
+          - url: https://wa.me/573122574648
+            icon: fab fa-whatsapp
           - url: skype:mariaclaraalvarez@hotmail.com?chat
             icon: fab fa-skype
+          - url: tel:+573122574648
+            icon: fas fa-phone
         image: assets/img/team/maria.jpg
       - name: "Cristina López"
         role: "Logistics"
         social:
           - url: mailto:clopez@andeanbouquet.com
             icon: fa fa-envelope
-          - url: tel:+573116106353
-            icon: fas fa-phone
+          - url: https://wa.me/573116106353
+            icon: fab fa-whatsapp
           - url: skype:andeanbouquet@hotmail.com?chat
             icon: fab fa-skype
+          - url: tel:+573116106353
+            icon: fas fa-phone
         image: assets/img/team/cristina.jpg
   
   contact:
@@ -156,6 +162,8 @@ en: &DEFAULT_EN
     social:
       - url: mailto:hebert.varela@andeanbouquet.com
         icon: fa fa-envelope
+      - url: https://wa.me/573122586999
+        icon: fab fa-whatsapp
       - url: tel:+573122586999
         icon: fas fa-phone
       - url: https://www.linkedin.com/hebert-varela-01297a11

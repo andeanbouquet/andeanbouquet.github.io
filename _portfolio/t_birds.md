@@ -26,6 +26,7 @@ carousels:
   - images:
   - images:
   - images:
+  - images:
   - images: 
   - images: 
     - image: /assets/img/catalogue/birds_paradise/1.jpg
