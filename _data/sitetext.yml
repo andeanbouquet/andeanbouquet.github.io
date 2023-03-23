@@ -86,15 +86,17 @@ en: &DEFAULT_EN
     <b>[Know more about us, our history and values here](/more_about_us) </b>"
 
 
-  # clients: 
-  #   section: clients
-  #   max-height: 500px
-  #   text: Hi
-  #   horizontal-scrolling: "" #"yes/no"
-  #   list:
-  #     - title: 
-  #       url: 
-  #       logo: assets/img/timeline/1.jpg
+  clients: 
+    section: clients
+    max-height: 500px
+    text: "hebert.varela@andeanbouquet.com 
+    <br>
+    Retiro, Colombia 🇨🇴"
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: 
+        url: 
+        logo: assets/img/timeline/1.jpg
 
   team:
     title: "Meet the team"
