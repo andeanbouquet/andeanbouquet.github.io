@@ -1,6 +1,6 @@
 ---
 title: Light Purple
-subtitle: 
+subtitle: Available in grade extra. 
 image: "/assets/img/catalogue/hydrangea/light_purple/1.jpg"
 alt: Keep Exploring
 
