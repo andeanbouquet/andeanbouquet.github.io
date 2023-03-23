@@ -92,7 +92,7 @@ en: &DEFAULT_EN
     text: "hebert.varela@andeanbouquet.com 
     <br>
     Retiro, Colombia 🇨🇴"
-    
+
 
   team:
     title: "Meet the team"
@@ -104,8 +104,6 @@ en: &DEFAULT_EN
         role: "General Manager"
         image: assets/img/team/hebert.jpg
         social:
-          - url: https://www.linkedin.com/in/hebert-varela-01297a11/
-            icon: fab fa-linkedin-in
           - url: mailto:hebert.varela@andeanbouquet.com
             icon: fa fa-envelope
           - url: https://wa.me/573122586999
@@ -114,6 +112,8 @@ en: &DEFAULT_EN
             icon: fab fa-skype
           - url: tel:+573122586999
             icon: fas fa-phone
+          - url: https://www.linkedin.com/in/hebert-varela-01297a11/
+            icon: fab fa-linkedin-in
       - name: "Maria Clara Álvarez"
         role: "Administrator"
         social:
