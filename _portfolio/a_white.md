@@ -17,7 +17,7 @@ caption:
                   <td>Extra</td>
                   <td>18-20 cm</td>
                   <td>60 cm</td>
-                  <td>32</td>
+                  <td>40</td>
               </tr>
               <tr>
                   <td>Premium</td>
@@ -55,5 +55,5 @@ carousels:
 
 |  Grade  |  Head Size | Length | Stems/QB |
 |---------|------------|--------|----------|
-|  Extra  |  18-20 cm  | 60 cm  |    32    |
+|  Extra  |  18-20 cm  | 60 cm  |    40    |
 |  Prem.  |  21-22 cm  | 60 cm  |    28    |
